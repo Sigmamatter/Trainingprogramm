@@ -1,5 +1,5 @@
 Задача с рандомизатором чисел C++
-{
+
 	#include <iostream>
 	using namespace std;
 	bool Delete(int *array, int &lenAr, int nom);
@@ -63,4 +63,4 @@
 		lenAr--;
 		return true;
 	}
-}
+
